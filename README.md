@@ -8,11 +8,6 @@ The goal of the project is: to create a machine learning pipeline to predict if 
 
 ...
 
-
-This code block will include the contents of the README file in your Markdown file, as if it were written directly in the Markdown file. You can then save the Markdown file as `README.md` and push it to your repository.
-
-Here is an example of a complete Markdown file for a README file:
-
 ### Data
 
 The data for the project is stored in the `data` directory. The data files are in CSV format.

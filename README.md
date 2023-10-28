@@ -2,7 +2,7 @@
 
 This repository contains the code and data for your IBM data science Capstone project.
 
-The project title is: WInning Space Race with Data Science
+The project title is: Winning Space Race with Data Science
 
 The goal of the project is: to create a machine learning pipeline to predict if the first stage will land given the data from the preceding labs.
 
